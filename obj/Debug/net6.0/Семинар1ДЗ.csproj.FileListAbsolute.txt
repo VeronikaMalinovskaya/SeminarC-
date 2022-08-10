@@ -1,0 +1,15 @@
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.csproj.AssemblyReference.cache
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.AssemblyInfoInputs.cache
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.AssemblyInfo.cs
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.csproj.CoreCompileInputs.cache
+E:\C#\Семинар1ДЗ\bin\Debug\net6.0\Семинар1ДЗ.exe
+E:\C#\Семинар1ДЗ\bin\Debug\net6.0\Семинар1ДЗ.deps.json
+E:\C#\Семинар1ДЗ\bin\Debug\net6.0\Семинар1ДЗ.runtimeconfig.json
+E:\C#\Семинар1ДЗ\bin\Debug\net6.0\Семинар1ДЗ.dll
+E:\C#\Семинар1ДЗ\bin\Debug\net6.0\Семинар1ДЗ.pdb
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.dll
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\refint\Семинар1ДЗ.dll
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.pdb
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\Семинар1ДЗ.genruntimeconfig.cache
+E:\C#\Семинар1ДЗ\obj\Debug\net6.0\ref\Семинар1ДЗ.dll
